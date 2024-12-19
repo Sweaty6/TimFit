@@ -294,7 +294,7 @@ body {
 .team__box::after {
     content: "";
     position: absolute;
-    background-image: url('imgs/черный\ фон.png');
+    background-image: url('imgs/черный фон.png');
     width: 1250px;
     height: 700px;
     background-size: cover;
@@ -417,7 +417,7 @@ body {
 .card_ca {
     width: 400px;
     height: 600px;
-    background-image: url("imgs/Polygon\ 1.png");
+    background-image: url("imgs/ромб.png");
     background-repeat: no-repeat;
     display: inline-block;
     vertical-align: top;
@@ -429,7 +429,7 @@ body {
 .card_c {
     width: 400px;
     height: 600px;
-    background-image: url("imgs/Polygon\ 1.png");
+    background-image: url("imgs/ромб.png");
     background-repeat: no-repeat;
     display: inline-block;
     vertical-align: top;
@@ -441,7 +441,7 @@ body {
 .card_cc {
     width: 400px;
     height: 600px;
-    background-image: url("imgs/Polygon\ 1.png");
+    background-image: url("imgs/ромб.png");
     background-repeat: no-repeat;
     display: inline-block;
     vertical-align: top;
@@ -453,7 +453,7 @@ body {
 .card_cb {
     width: 400px;
     height: 600px;
-    background-image: url("imgs/Polygon\ 1.png");
+    background-image: url("imgs/ромб.png");
     background-repeat: no-repeat;
     vertical-align: top;
     display: inline-block;
